@@ -9,8 +9,9 @@
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+    --background: #d77aff20
+     /* --background:radial-gradient(125%_125%_at_50%_10%,#fff_40%,#63e_100%);  */
+    --foreground: #6f15a6;
   }
 }
 
